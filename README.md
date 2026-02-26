@@ -22,27 +22,39 @@ With 4+ years of professional experience, I focus on async optimization, distrib
 
 ### Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+  <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" title="FastAPI" />
+  <img src="https://skillicons.dev/icons?i=django" alt="Django" title="Django" />
 </p>
 
 ### Databases & Caching
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+  <img src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
 </p>
 
 ### Cloud & Infrastructure
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions" alt="Cloud" />
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" />
+  <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" />
 </p>
 
 ### Architecture & Messaging
 <p>
-  <img src="https://skillicons.dev/icons?i=kafka,nginx" alt="Architecture" />
+  <img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" title="Apache Kafka" />
+  <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" />
 </p>
 
 ### Tools & Others
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,postman" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" />
+  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" />
 </p>
 
 ---
@@ -82,13 +94,13 @@ With 4+ years of professional experience, I focus on async optimization, distrib
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/namit-adhikari">
+  <a href="https://linkedin.com/in/namit-adhikari" title="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-  <a href="http://namitadhikari.com.np">
-    <img src="https://img.shields.io/badge/🌐-Website-black?style=for-the-badge" alt="Website" />
+  <a href="http://namitadhikari.com.np" title="Portfolio Website">
+    <img src="https://skillicons.dev/icons?i=vercel" alt="Website" />
   </a>
-  <a href="mailto:namitadhikari99@gmail.com">
+  <a href="mailto:namitadhikari99@gmail.com" title="Email">
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
 </p>
